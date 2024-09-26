@@ -1,0 +1,25 @@
+
+body {
+background-color: rgb(216, 227, 202);
+}
+img {
+    position: absolute;
+    width: 100px; 
+    transition: transform 0.5s ease;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: transparent;
+    padding: 8px 10px;
+}
+
